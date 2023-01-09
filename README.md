@@ -1,1 +1,3 @@
-# spinbox
+npm install
+
+npm start
